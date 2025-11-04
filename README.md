@@ -405,8 +405,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Result :
-Result is verified
-
+Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
 
 
 ****
